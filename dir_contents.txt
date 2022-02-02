@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x 1 emanu 197609 0 Feb  1 21:37 ./
+drwxr-xr-x 1 emanu 197609 0 Feb  1 21:37 ../
+drwxr-xr-x 1 emanu 197609 0 Feb  1 21:37 .git/
+-rw-r--r-- 1 emanu 197609 0 Feb  1 21:37 dir_contents.txt
