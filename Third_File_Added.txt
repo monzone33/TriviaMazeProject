@@ -1,0 +1,8 @@
+total 11
+drwxr-xr-x 1 emanu 197609   0 Feb  1 22:56 ./
+drwxr-xr-x 1 emanu 197609   0 Feb  1 22:11 ../
+drwxr-xr-x 1 emanu 197609   0 Feb  1 22:55 .git/
+-rw-r--r-- 1 emanu 197609  39 Feb  1 22:55 NewFile
+-rw-r--r-- 1 emanu 197609 264 Feb  1 21:38 README.txt
+-rw-r--r-- 1 emanu 197609   0 Feb  1 22:56 Third_File_Added.txt
+-rw-r--r-- 1 emanu 197609 256 Feb  1 21:57 dir_contents.txt
